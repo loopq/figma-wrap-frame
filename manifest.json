@@ -1,0 +1,9 @@
+{
+  "name": "Wrap in Frame",
+  "id": "wrap-in-frame-local",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": ["figma"],
+  "documentAccess": "dynamic-page",
+  "networkAccess": { "allowedDomains": ["none"] }
+}
